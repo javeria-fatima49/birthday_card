@@ -321,7 +321,7 @@ export default function BirthdayCard() {
                         >
                           <Heart className="h-6 w-6 text-red-500 mr-2 fill-current" />
                           <p className="text-gray-700 text-lg">
-                            Your loving family
+                            Your Sister
                           </p>
                         </motion.div>
                       </div>
