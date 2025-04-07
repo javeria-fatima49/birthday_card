@@ -319,10 +319,10 @@ export default function BirthdayCard() {
                             repeatType: "reverse",
                           }}
                         >
-                          <Heart className="h-6 w-6 text-red-500 mr-2 fill-current" />
-                          <p className="text-gray-700 text-lg">
-                            Your Sister
+                             <p className="text-gray-700 text-lg">
+                            Your Sister 
                           </p>
+                          <Heart className="h-6 w-6 ml-1 text-red-500 mr-2 fill-current" />
                         </motion.div>
                       </div>
 
